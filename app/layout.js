@@ -22,7 +22,7 @@ export default function RootLayout({ children }) {
           </ul>
         </nav>
       </section> */}
-      <body>{children}</body>
+      <body >{children}</body>
     </html>
   );
 }
